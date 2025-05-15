@@ -14,8 +14,6 @@ https://drive.google.com/file/d/1R8dR2KvXx_W2EmGWXCkXjCf-2Bklmuy6/view?usp=shari
 
 Akurasi pada validation set: 90.62%
 
-untuk tfjs_model dan tflite memiliki ukuran yang cukup besar sehingga hanya disertakan sampelnya saja yaitu group1-shard1of1.bin dan model.tflite
-
 
 
 
